@@ -267,7 +267,7 @@ export default function Universal() {
         }}
       />
       <p className="join-link" style={{ textAlign: "center", color: "gray" }}>
-        © 2024&nbsp;
+        © 2025&nbsp;
         <a href="#" id="footer_com">
           Secure Portal
         </a>
